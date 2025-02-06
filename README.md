@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Astik%20Raj&fontSize=40)
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech in Information Technology, Vellore Institute of Technology (CGPA: 8.48)
+- 🎓 B.Tech in Information Technology, Vellore Institute of Technology (CGPA: 8.46)
 - 🌟 Passionate about Web Development, IoT Security, and Big Data Solutions.
 - 🛠️ Always eager to learn and contribute to innovative projects.
 
